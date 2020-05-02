@@ -1,0 +1,60 @@
+libcariad-driver-analogtouch (2.0.9) uecide; urgency=low
+
+  * Added to touchscreen group
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 28 Oct 2018 16:36:08 +0000
+
+libcariad-driver-analogtouch (2.0.8) uecide; urgency=low
+
+  * Updated names
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 28 Oct 2018 16:22:56 +0000
+
+libcariad-driver-analogtouch (2.0.7) uecide; urgency=low
+
+  * New structure
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 3 Jun 2018 16:41:38 +0100
+
+libcariad-driver-analogtouch (2.0.6) uecide; urgency=low
+
+  * Updated library.json
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 26 Feb 2018 20:34:40 +0000
+
+libcariad-driver-analogtouch (2.0.5) uecide; urgency=low
+
+  * Update git path
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 26 Feb 2018 20:20:51 +0000
+
+libcariad-driver-analogtouch (2.0.4) uecide; urgency=low
+
+  * Renamed boolean to bool
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 16 Feb 2018 19:58:26 +0000
+
+libcariad-driver-analogtouch (2.0.3) uecide; urgency=low
+
+  * Fixed rotation offset bug
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Wed, 10 Jan 2018 13:42:10 +0000
+
+libcariad-driver-analogtouch (2.0.2) uecide; urgency=low
+
+  * Added build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:28:09 +0100
+
+libcariad-driver-analogtouch (2.0.1) uecide; urgency=low
+
+  * Adding build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:19:46 +0100
+
+libcariad-driver-analogtouch (2.0.0) uecide; urgency=low
+
+  * Initial Import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Wed, 16 Aug 2017 20:36:40 +0100
+

@@ -1,0 +1,22 @@
+Source: libcariad-driver-analogtouch
+Section: main
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libcariad-driver-analogtouchmz
+Replaces: libdisplaycore-driver-analogtouchmz
+Section: main
+Architecture: all
+XBSC-Group: Cariad
+XBSC-Subgroup: Drivers
+XBSC-Subsubgroup: Touchscreen
+Depends: libcariad-core
+Provides: AnalogTouchMZ.h
+Description: Analog Resistive Touchscreen for PIC32MZ chips
+ Utilizes the internal ADC of the PIC32MZ to interface with a standard
+ 4-wire resistive touch panel
+
+
+
